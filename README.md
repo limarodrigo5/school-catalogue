@@ -1,4 +1,4 @@
-# School Catalog 🏫
+# School Catalogue 🏫
 
 Bem-vindo ao School Catalogue! Este projeto representa um catálogo digital para o Departamento de Educação da Cidade de Nova York. Ele contém informações sobre escolas primárias e secundárias.
 
